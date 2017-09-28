@@ -1,5 +1,5 @@
 # 737-300
-Installation:
+Installation (for basic users):
 - Download ZIP and rename to "737-300"
 - Unzip it in $FG_ROOT\Aircraft
 - Enjoy!
